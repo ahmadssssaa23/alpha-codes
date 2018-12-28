@@ -1,6 +1,6 @@
-token=NTAyNzE3MzE1OTI2OTgyNjU3.Dqr_ig.0SfQvU97M1yPAiCPLGCOQXqErww
-owner=202745501345382400
-prefix=#
-game=#Alpha_Codes
+token=NTEyOTA1NTM4MzkzMjEwODg4.DwezZg.JkdUg9l2fckoEZ24QFE_j4oiy3o
+owner=341222091523096606
+prefix=&
+game=Insta qvb7
 stayinchannel=true
 songinstatus=false
