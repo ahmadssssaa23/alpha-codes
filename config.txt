@@ -1,6 +1,6 @@
-token=NTEyOTA1NTM4MzkzMjEwODg4.DwezZg.JkdUg9l2fckoEZ24QFE_j4oiy3o
-owner=341222091523096606
-prefix=&
-game=Insta qvb7
+token=NTI5NjQ0NTU4MTc1MzA1NzM5.Dwz1rg.UOkibBdcmVZAVFoJ7Jm6_ZxyAXk
+owner=368462066148966411
+prefix=k
+game=SKOk
 stayinchannel=true
 songinstatus=false
